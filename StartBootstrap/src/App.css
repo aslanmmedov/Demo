@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.phone .all{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.phone .all .plays{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.phone .all .par h2{
+    font-size: 80px;
+}
+
+.phone .all .par p{
+    font-size: 25px;
+}
+
+.phone .all .par{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
