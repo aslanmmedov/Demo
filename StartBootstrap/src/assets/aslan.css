@@ -1,0 +1,22 @@
+.purpleSec{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        height:400px;
+        color:white;
+        padding:3rem 0;
+    }
+    .purpleSec h2{
+        font-size:3rem;
+        width:700px;
+        text-align: center;
+    }
+    .purpleSec h1{
+        font-size:4rem;
+        width:700px;
+        text-align: center;
+    }
+#purple{
+    background-color: #7A23E6;
+}
