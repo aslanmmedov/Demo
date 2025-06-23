@@ -7,6 +7,29 @@ function App() {
 
   return (
     <>
+    <section id="header">
+      <div className="container">
+
+
+      <header>
+        <div className="header">
+          <h1>
+            Start Bootstrap
+          </h1>
+          <nav>
+            <a>Features</a>
+            <a>Download</a>
+            <div className="send">
+                  <a >Send Feedback</a>
+            </div>
+
+          </nav>
+
+        </div>
+      </header>
+            </div>
+    </section>
+
       <section id="purple">
         <div className="purpleSec">
           <h2>
