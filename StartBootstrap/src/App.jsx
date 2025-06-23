@@ -29,17 +29,6 @@ function App() {
       </header>
             </div>
     </section>
-
-      <section id="purple">
-        <div className="purpleSec">
-          <h2>
-            "An intuitive solution to a common problem that we all face, wrapped
-            up in a single app!"
-          </h2>
-          <h1>TNW</h1>
-          <p>The next web</p>
-        </div>
-      </section>
       <section className='phone'> <div className='container'>
         <div className='all'>
           <div className='par'>
@@ -52,6 +41,18 @@ function App() {
         </div>
       </div>
       </section>
+
+      <section id="purple">
+        <div className="purpleSec">
+          <h2>
+            "An intuitive solution to a common problem that we all face, wrapped
+            up in a single app!"
+          </h2>
+          <h1>TNW</h1>
+          <p>The next web</p>
+        </div>
+      </section>
+    
     </>
   )
 
